@@ -1,0 +1,6 @@
+.python-version
+*__pycache__/
+*.pyc
+eaasi_uvi_client.egg-info/
+build/
+dist/
