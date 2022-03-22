@@ -90,7 +90,7 @@ make package-check
 ```
 
 To upload the package to PyPI (this requires PyPI credentials and being
-listed as a collaborator on the `auditmatica` project):
+listed as a collaborator on the `eaasi-uvi-client` project):
 ```bash
 make package-upload
 ```
@@ -101,3 +101,4 @@ make clean
 ```
 
 [eaasi]: https://www.softwarepreservationnetwork.org/emulation-as-a-service-infrastructure/
+[pypi]: https://pypi.org/
